@@ -133,9 +133,9 @@ int main ()
 
     int a, b;
 
-    cout<<" Enter the value of coordinates in 10x10 board where you want to guess: like 2 3 or 5 7 if your guess are same:)" <<endl;
+    cout<<" Enter the value of coordinates in 10x10 board where you want to guess: like 2 3 or 5 7 : " <<endl;
     cout<<" each numeric should lie within [1,10]: "<<endl;
-    cout<<" ALL THE BEST"<<endl;
+    cout<<" ALL THE BEST :)"<<endl;
 
     cin>>a>>b;
 
